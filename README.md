@@ -1,7 +1,12 @@
 # Diapositivas del Curso de Introducción a Docker
-## Módulo 8: Docker Swarm
+## Módulo 9:  Configuración de dockerd
 
 ## Índice
+
+* Configuración de dockerd
+* TLS
+
+## Visualización
 
 Para ver las diapositivas:
 
